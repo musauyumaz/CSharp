@@ -1,0 +1,13 @@
+D:\KampDemos\Oop2\OOP3\bin\Debug\netcoreapp3.1\OOP3.exe
+D:\KampDemos\Oop2\OOP3\bin\Debug\netcoreapp3.1\OOP3.deps.json
+D:\KampDemos\Oop2\OOP3\bin\Debug\netcoreapp3.1\OOP3.runtimeconfig.json
+D:\KampDemos\Oop2\OOP3\bin\Debug\netcoreapp3.1\OOP3.runtimeconfig.dev.json
+D:\KampDemos\Oop2\OOP3\bin\Debug\netcoreapp3.1\OOP3.dll
+D:\KampDemos\Oop2\OOP3\bin\Debug\netcoreapp3.1\OOP3.pdb
+D:\KampDemos\Oop2\OOP3\obj\Debug\netcoreapp3.1\OOP3.csprojAssemblyReference.cache
+D:\KampDemos\Oop2\OOP3\obj\Debug\netcoreapp3.1\OOP3.AssemblyInfoInputs.cache
+D:\KampDemos\Oop2\OOP3\obj\Debug\netcoreapp3.1\OOP3.AssemblyInfo.cs
+D:\KampDemos\Oop2\OOP3\obj\Debug\netcoreapp3.1\OOP3.csproj.CoreCompileInputs.cache
+D:\KampDemos\Oop2\OOP3\obj\Debug\netcoreapp3.1\OOP3.dll
+D:\KampDemos\Oop2\OOP3\obj\Debug\netcoreapp3.1\OOP3.pdb
+D:\KampDemos\Oop2\OOP3\obj\Debug\netcoreapp3.1\OOP3.genruntimeconfig.cache

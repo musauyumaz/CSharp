@@ -1,0 +1,15 @@
+1-<İsimlendirme Kuralları>
+*Değişken isimlerini kısaltma
+*Birşey tanımlarken ne olduğunu açık açık yaz
+2-<FONKSİYONLAR>
+*Bir fonksiyon sadece 1 işi yapabilir
+*Ortak nesne içine koymalısınız(DTO)
+3-<YORUMLAR>
+*Fonksiyon içine comment yazılmaz.Fonksiyon üstüne yazılmalıdır
+4-<SOYUTLAMA>
+*Çıplak class kalmamalıdır
+*Interface ve Abstractlar kullanılmalıdır
+5-<SOLID>
+*SOLID tekniklerini ne kadar iyi kullanırsan o kadar mükemmel bir kod yazabilirsiniz
+6-<AspectOrientedPrograming>
+*Aoc Conteiner

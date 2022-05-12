@@ -1,0 +1,9 @@
+C:\Users\musau\Desktop\Engin Demiroğ\Northwind\Northwind.Interfaces\bin\Debug\Northwind.Interfaces.dll
+C:\Users\musau\Desktop\Engin Demiroğ\Northwind\Northwind.Interfaces\bin\Debug\Northwind.Interfaces.pdb
+C:\Users\musau\Desktop\Engin Demiroğ\Northwind\Northwind.Interfaces\bin\Debug\Northwind.Entities.dll
+C:\Users\musau\Desktop\Engin Demiroğ\Northwind\Northwind.Interfaces\bin\Debug\Northwind.Entities.pdb
+C:\Users\musau\Desktop\Engin Demiroğ\Northwind\Northwind.Interfaces\obj\Debug\Northwind.Interfaces.csproj.AssemblyReference.cache
+C:\Users\musau\Desktop\Engin Demiroğ\Northwind\Northwind.Interfaces\obj\Debug\Northwind.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Engin Demiroğ\Northwind\Northwind.Interfaces\obj\Debug\Northwind.Interfaces.csproj.CopyComplete
+C:\Users\musau\Desktop\Engin Demiroğ\Northwind\Northwind.Interfaces\obj\Debug\Northwind.Interfaces.dll
+C:\Users\musau\Desktop\Engin Demiroğ\Northwind\Northwind.Interfaces\obj\Debug\Northwind.Interfaces.pdb

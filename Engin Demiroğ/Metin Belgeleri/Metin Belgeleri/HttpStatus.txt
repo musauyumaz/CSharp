@@ -1,0 +1,9 @@
+200 - İstek başarılı oldu
+201 - İstek başarılı oldu ve kaynak oluştu
+301 - Kaynağın kalıcı olarak taşındığını belirtir ve başka bir url'e yönlendirir.
+400 - İstek başarısız oldu.
+401 - İstemci kaynağa erişmek için yetkili değil
+403 - Bu kaynağa erişim yasak.
+404 - Kaynak bulunamadı.
+500 - Sunucuda bir hata oluştu.
+502 - Kaynak sunucusuna erişilemedi.

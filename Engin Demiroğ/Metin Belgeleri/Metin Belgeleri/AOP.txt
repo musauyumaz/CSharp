@@ -1,0 +1,7 @@
+Uygulamanın başında sonunda hata verdiğinde çalışmasını istediğin kodların varsa AOP yöntemiyle dizayn edebilirsin
+bu şekilde uygulamada sürekli try catch yazmak zorunda kalmazsın kod tekrarından önemli bir ölçüde seni kurtarır
+Bu Yönteme Interseption(Araya girmek method başı, sonu, hatası,belli kesiminde) denir
+Attribute:Methodlara fieldlara anlam yüklemek için kullanılır
+
+
+Aspect:MethodInterception'ı Temel Alan Ve Nerede çalışsın istiyorsan onu içeren operasyondur

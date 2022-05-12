@@ -1,0 +1,16 @@
+C:\Users\musau\Desktop\Engin Demiroğ\InterfaceAbstractDemo\InterfaceAbstractDemo\bin\Debug\net6.0\InterfaceAbstractDemo.exe
+C:\Users\musau\Desktop\Engin Demiroğ\InterfaceAbstractDemo\InterfaceAbstractDemo\bin\Debug\net6.0\InterfaceAbstractDemo.deps.json
+C:\Users\musau\Desktop\Engin Demiroğ\InterfaceAbstractDemo\InterfaceAbstractDemo\bin\Debug\net6.0\InterfaceAbstractDemo.runtimeconfig.json
+C:\Users\musau\Desktop\Engin Demiroğ\InterfaceAbstractDemo\InterfaceAbstractDemo\bin\Debug\net6.0\InterfaceAbstractDemo.dll
+C:\Users\musau\Desktop\Engin Demiroğ\InterfaceAbstractDemo\InterfaceAbstractDemo\bin\Debug\net6.0\ref\InterfaceAbstractDemo.dll
+C:\Users\musau\Desktop\Engin Demiroğ\InterfaceAbstractDemo\InterfaceAbstractDemo\bin\Debug\net6.0\InterfaceAbstractDemo.pdb
+C:\Users\musau\Desktop\Engin Demiroğ\InterfaceAbstractDemo\InterfaceAbstractDemo\obj\Debug\net6.0\InterfaceAbstractDemo.csproj.AssemblyReference.cache
+C:\Users\musau\Desktop\Engin Demiroğ\InterfaceAbstractDemo\InterfaceAbstractDemo\obj\Debug\net6.0\InterfaceAbstractDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musau\Desktop\Engin Demiroğ\InterfaceAbstractDemo\InterfaceAbstractDemo\obj\Debug\net6.0\InterfaceAbstractDemo.AssemblyInfoInputs.cache
+C:\Users\musau\Desktop\Engin Demiroğ\InterfaceAbstractDemo\InterfaceAbstractDemo\obj\Debug\net6.0\InterfaceAbstractDemo.AssemblyInfo.cs
+C:\Users\musau\Desktop\Engin Demiroğ\InterfaceAbstractDemo\InterfaceAbstractDemo\obj\Debug\net6.0\InterfaceAbstractDemo.ImplicitNamespaceImports.cs
+C:\Users\musau\Desktop\Engin Demiroğ\InterfaceAbstractDemo\InterfaceAbstractDemo\obj\Debug\net6.0\InterfaceAbstractDemo.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Engin Demiroğ\InterfaceAbstractDemo\InterfaceAbstractDemo\obj\Debug\net6.0\InterfaceAbstractDemo.dll
+C:\Users\musau\Desktop\Engin Demiroğ\InterfaceAbstractDemo\InterfaceAbstractDemo\obj\Debug\net6.0\ref\InterfaceAbstractDemo.dll
+C:\Users\musau\Desktop\Engin Demiroğ\InterfaceAbstractDemo\InterfaceAbstractDemo\obj\Debug\net6.0\InterfaceAbstractDemo.pdb
+C:\Users\musau\Desktop\Engin Demiroğ\InterfaceAbstractDemo\InterfaceAbstractDemo\obj\Debug\net6.0\InterfaceAbstractDemo.genruntimeconfig.cache

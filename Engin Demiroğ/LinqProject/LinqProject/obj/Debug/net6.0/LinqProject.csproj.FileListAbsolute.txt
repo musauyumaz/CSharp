@@ -1,0 +1,16 @@
+C:\Users\musau\Desktop\Engin Demiroğ\LinqProject\LinqProject\bin\Debug\net6.0\LinqProject.exe
+C:\Users\musau\Desktop\Engin Demiroğ\LinqProject\LinqProject\bin\Debug\net6.0\LinqProject.deps.json
+C:\Users\musau\Desktop\Engin Demiroğ\LinqProject\LinqProject\bin\Debug\net6.0\LinqProject.runtimeconfig.json
+C:\Users\musau\Desktop\Engin Demiroğ\LinqProject\LinqProject\bin\Debug\net6.0\LinqProject.dll
+C:\Users\musau\Desktop\Engin Demiroğ\LinqProject\LinqProject\bin\Debug\net6.0\ref\LinqProject.dll
+C:\Users\musau\Desktop\Engin Demiroğ\LinqProject\LinqProject\bin\Debug\net6.0\LinqProject.pdb
+C:\Users\musau\Desktop\Engin Demiroğ\LinqProject\LinqProject\obj\Debug\net6.0\LinqProject.csproj.AssemblyReference.cache
+C:\Users\musau\Desktop\Engin Demiroğ\LinqProject\LinqProject\obj\Debug\net6.0\LinqProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musau\Desktop\Engin Demiroğ\LinqProject\LinqProject\obj\Debug\net6.0\LinqProject.AssemblyInfoInputs.cache
+C:\Users\musau\Desktop\Engin Demiroğ\LinqProject\LinqProject\obj\Debug\net6.0\LinqProject.AssemblyInfo.cs
+C:\Users\musau\Desktop\Engin Demiroğ\LinqProject\LinqProject\obj\Debug\net6.0\LinqProject.ImplicitNamespaceImports.cs
+C:\Users\musau\Desktop\Engin Demiroğ\LinqProject\LinqProject\obj\Debug\net6.0\LinqProject.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Engin Demiroğ\LinqProject\LinqProject\obj\Debug\net6.0\LinqProject.dll
+C:\Users\musau\Desktop\Engin Demiroğ\LinqProject\LinqProject\obj\Debug\net6.0\ref\LinqProject.dll
+C:\Users\musau\Desktop\Engin Demiroğ\LinqProject\LinqProject\obj\Debug\net6.0\LinqProject.pdb
+C:\Users\musau\Desktop\Engin Demiroğ\LinqProject\LinqProject\obj\Debug\net6.0\LinqProject.genruntimeconfig.cache

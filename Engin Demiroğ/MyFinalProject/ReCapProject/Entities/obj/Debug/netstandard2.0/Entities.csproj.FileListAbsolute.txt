@@ -1,0 +1,12 @@
+D:\MyFinalProject\ReCapProject\Entities\bin\Debug\netstandard2.0\Entities.deps.json
+D:\MyFinalProject\ReCapProject\Entities\bin\Debug\netstandard2.0\Entities.dll
+D:\MyFinalProject\ReCapProject\Entities\bin\Debug\netstandard2.0\Entities.pdb
+D:\MyFinalProject\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.csprojAssemblyReference.cache
+D:\MyFinalProject\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfoInputs.cache
+D:\MyFinalProject\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfo.cs
+D:\MyFinalProject\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.csproj.CoreCompileInputs.cache
+D:\MyFinalProject\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.dll
+D:\MyFinalProject\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.pdb
+D:\MyFinalProject\ReCapProject\Entities\bin\Debug\netstandard2.0\Core.dll
+D:\MyFinalProject\ReCapProject\Entities\bin\Debug\netstandard2.0\Core.pdb
+D:\MyFinalProject\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.csproj.CopyComplete

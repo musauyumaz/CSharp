@@ -1,0 +1,16 @@
+C:\Users\musau\Desktop\Engin Demiroğ\Northwind\Northwind.Bll\bin\Debug\Northwind.Bll.dll
+C:\Users\musau\Desktop\Engin Demiroğ\Northwind\Northwind.Bll\bin\Debug\Northwind.Bll.pdb
+C:\Users\musau\Desktop\Engin Demiroğ\Northwind\Northwind.Bll\bin\Debug\Northwind.Dal.dll
+C:\Users\musau\Desktop\Engin Demiroğ\Northwind\Northwind.Bll\bin\Debug\Northwind.Entities.dll
+C:\Users\musau\Desktop\Engin Demiroğ\Northwind\Northwind.Bll\bin\Debug\Northwind.Interfaces.dll
+C:\Users\musau\Desktop\Engin Demiroğ\Northwind\Northwind.Bll\bin\Debug\EntityFramework.dll
+C:\Users\musau\Desktop\Engin Demiroğ\Northwind\Northwind.Bll\bin\Debug\Northwind.Dal.pdb
+C:\Users\musau\Desktop\Engin Demiroğ\Northwind\Northwind.Bll\bin\Debug\Northwind.Dal.dll.config
+C:\Users\musau\Desktop\Engin Demiroğ\Northwind\Northwind.Bll\bin\Debug\Northwind.Entities.pdb
+C:\Users\musau\Desktop\Engin Demiroğ\Northwind\Northwind.Bll\bin\Debug\Northwind.Interfaces.pdb
+C:\Users\musau\Desktop\Engin Demiroğ\Northwind\Northwind.Bll\bin\Debug\EntityFramework.xml
+C:\Users\musau\Desktop\Engin Demiroğ\Northwind\Northwind.Bll\obj\Debug\Northwind.Bll.csproj.AssemblyReference.cache
+C:\Users\musau\Desktop\Engin Demiroğ\Northwind\Northwind.Bll\obj\Debug\Northwind.Bll.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Engin Demiroğ\Northwind\Northwind.Bll\obj\Debug\Northwind.Bll.csproj.CopyComplete
+C:\Users\musau\Desktop\Engin Demiroğ\Northwind\Northwind.Bll\obj\Debug\Northwind.Bll.dll
+C:\Users\musau\Desktop\Engin Demiroğ\Northwind\Northwind.Bll\obj\Debug\Northwind.Bll.pdb

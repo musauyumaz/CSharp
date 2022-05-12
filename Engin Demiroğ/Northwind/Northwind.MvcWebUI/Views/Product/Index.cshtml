@@ -1,0 +1,20 @@
+﻿@model System.Collections.Generic.List<Northwind.Entities.Product>
+
+@{ 
+    Layout = null;
+}
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>title</title>
+    </head>
+    <body>
+        <div>
+            @foreach(var product in Model)
+            {
+                @product.ProductName
+                <br />
+            }
+        </div>
+    </body>
+</html>

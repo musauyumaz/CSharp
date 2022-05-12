@@ -1,0 +1,7 @@
+C:\Users\musau\Desktop\Engin Demiroğ\Attributes\Delegates\bin\Debug\Delegates.exe.config
+C:\Users\musau\Desktop\Engin Demiroğ\Attributes\Delegates\bin\Debug\Delegates.exe
+C:\Users\musau\Desktop\Engin Demiroğ\Attributes\Delegates\bin\Debug\Delegates.pdb
+C:\Users\musau\Desktop\Engin Demiroğ\Attributes\Delegates\obj\Debug\Delegates.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Engin Demiroğ\Attributes\Delegates\obj\Debug\Delegates.exe
+C:\Users\musau\Desktop\Engin Demiroğ\Attributes\Delegates\obj\Debug\Delegates.pdb
+C:\Users\musau\Desktop\Engin Demiroğ\Attributes\Delegates\obj\Debug\Delegates.csproj.AssemblyReference.cache

@@ -1,0 +1,15 @@
+C:\Users\musau\Desktop\Engin Demiroğ\KampIntro\Koleksiyonlar\GenericsIntro\bin\Debug\net6.0\GenericsIntro.exe
+C:\Users\musau\Desktop\Engin Demiroğ\KampIntro\Koleksiyonlar\GenericsIntro\bin\Debug\net6.0\GenericsIntro.deps.json
+C:\Users\musau\Desktop\Engin Demiroğ\KampIntro\Koleksiyonlar\GenericsIntro\bin\Debug\net6.0\GenericsIntro.runtimeconfig.json
+C:\Users\musau\Desktop\Engin Demiroğ\KampIntro\Koleksiyonlar\GenericsIntro\bin\Debug\net6.0\GenericsIntro.dll
+C:\Users\musau\Desktop\Engin Demiroğ\KampIntro\Koleksiyonlar\GenericsIntro\bin\Debug\net6.0\ref\GenericsIntro.dll
+C:\Users\musau\Desktop\Engin Demiroğ\KampIntro\Koleksiyonlar\GenericsIntro\bin\Debug\net6.0\GenericsIntro.pdb
+C:\Users\musau\Desktop\Engin Demiroğ\KampIntro\Koleksiyonlar\GenericsIntro\obj\Debug\net6.0\GenericsIntro.csproj.AssemblyReference.cache
+C:\Users\musau\Desktop\Engin Demiroğ\KampIntro\Koleksiyonlar\GenericsIntro\obj\Debug\net6.0\GenericsIntro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musau\Desktop\Engin Demiroğ\KampIntro\Koleksiyonlar\GenericsIntro\obj\Debug\net6.0\GenericsIntro.AssemblyInfoInputs.cache
+C:\Users\musau\Desktop\Engin Demiroğ\KampIntro\Koleksiyonlar\GenericsIntro\obj\Debug\net6.0\GenericsIntro.AssemblyInfo.cs
+C:\Users\musau\Desktop\Engin Demiroğ\KampIntro\Koleksiyonlar\GenericsIntro\obj\Debug\net6.0\GenericsIntro.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Engin Demiroğ\KampIntro\Koleksiyonlar\GenericsIntro\obj\Debug\net6.0\GenericsIntro.dll
+C:\Users\musau\Desktop\Engin Demiroğ\KampIntro\Koleksiyonlar\GenericsIntro\obj\Debug\net6.0\ref\GenericsIntro.dll
+C:\Users\musau\Desktop\Engin Demiroğ\KampIntro\Koleksiyonlar\GenericsIntro\obj\Debug\net6.0\GenericsIntro.pdb
+C:\Users\musau\Desktop\Engin Demiroğ\KampIntro\Koleksiyonlar\GenericsIntro\obj\Debug\net6.0\GenericsIntro.genruntimeconfig.cache

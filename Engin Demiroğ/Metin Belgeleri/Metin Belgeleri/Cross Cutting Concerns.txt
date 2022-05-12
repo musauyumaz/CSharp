@@ -1,0 +1,13 @@
+Cross Cutting Concerns -->Uygulamayı Dikine Kesen İlgi Alanları 
+Log
+Cache
+Transaction
+Authorization
+Validation
+Performance
+Encryption,Hashing-->Bir datayı karşı taraf okumasın diye yapılan çalışmalar 
+Hashing-->Hash fonksiyonları doğrulama amaçlı kullanılır ve matematiksel olarak geri döndürülemez özelliğe sahiptirler. Genellikle bir verinin içeriğinin değişmediğinin garantisi olarak kullanılır veya bir parolanın veritabanında açık bir şekilde tutulmasını engellemek ve başkaları tarafından (işin sahibi dahil) bilinmesi istenmediği zaman tercih edilir.
+MD5, SHA1 en fazla bilinen hash tipine örnektir.
+Salting -->Kullanıcın Girdiği parolayı güçlendirme
+Encryption-->
+*Tüm Katmanlarda Kullanılabilir

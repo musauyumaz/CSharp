@@ -1,0 +1,2 @@
+Sen eğer birden çok değer döndürmek istiyorsan Encapsulation'dan yararlanacaksın
+Read Only olan fieldları constructor sayesinde üstüne yazabilirsin read-write

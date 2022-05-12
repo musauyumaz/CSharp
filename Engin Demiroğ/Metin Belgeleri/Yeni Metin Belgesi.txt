@@ -1,0 +1,4 @@
+super() metodu, üst-sınıfa ait bir nesne constructor yerine geçer. 
+Üst-sınıfta overload edilmiş constructorlar tanımlı ise, hangisini çağıracağını,
+ kullanılan parametreler belirler.
+this ifadesi o anda hangi nesne üzerinde işlemler yapılıyorsa o nesnenin ifadesini döndürür.

@@ -1,0 +1,18 @@
+----------------ANA KATMANLAR-----------------
+1-DATA ACCESS : Veri Erişim Katmanı veriye eriştiğimiz katmandır.Veritabanı vardır. Veriye erişim dışında asla farklı bir kod yazılmaz.
+
+2-BUSINESS :Kuralların bulunduğu iş kurallarının yazıldığı katmandır.Şart bloklarını çoğunlukla yazdığımız yerdir.İşin mantığını yazdığımız yerdir.
+
+3- API :Arayüz katmanıdır.Kullnıcıyla etkileşim kurulan yerdir.Şartlara göre ekran sunduğumuz yerdir.Sadece arayüzü ilgilendiren kodlar yazılır 
+-jsp,Android mobil geliştirme ortamı bunlar yerine 
+
+restful sistemler(API):Dış dünyayla iletişim kurulabilmesi için kullanılan sistemdi
+
+
+----------------YARDIMCI KATMANLAR-----------------
+1-Entities:
+Genellikle özellik tutan nesneler bu katmandadır.
+tüm sisteme hizmet eden katmandır.
+2-Core:
+Ortak katmandır
+her zaman her yerde kullanılan kodlardır.

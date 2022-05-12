@@ -1,0 +1,169 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\musau\\Desktop\\Engin Demiroğ\\Northwind\\Northwind.MvcWebUI\\Northwind.MvcWebUI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\musau\\Desktop\\Engin Demiroğ\\Northwind\\Northwind.Bll\\Northwind.Bll.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\musau\\Desktop\\Engin Demiroğ\\Northwind\\Northwind.Bll\\Northwind.Bll.csproj",
+        "projectName": "Northwind.Bll",
+        "projectPath": "C:\\Users\\musau\\Desktop\\Engin Demiroğ\\Northwind\\Northwind.Bll\\Northwind.Bll.csproj",
+        "frameworks": {
+          "net45": {
+            "projectReferences": {
+              "C:\\Users\\musau\\Desktop\\Engin Demiroğ\\Northwind\\Northwind.Dal\\Northwind.Dal.csproj": {
+                "projectPath": "C:\\Users\\musau\\Desktop\\Engin Demiroğ\\Northwind\\Northwind.Dal\\Northwind.Dal.csproj"
+              },
+              "C:\\Users\\musau\\Desktop\\Engin Demiroğ\\Northwind\\Northwind.Entities\\Northwind.Entities.csproj": {
+                "projectPath": "C:\\Users\\musau\\Desktop\\Engin Demiroğ\\Northwind\\Northwind.Entities\\Northwind.Entities.csproj"
+              },
+              "C:\\Users\\musau\\Desktop\\Engin Demiroğ\\Northwind\\Northwind.Interfaces\\Northwind.Interfaces.csproj": {
+                "projectPath": "C:\\Users\\musau\\Desktop\\Engin Demiroğ\\Northwind\\Northwind.Interfaces\\Northwind.Interfaces.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net45": {}
+      }
+    },
+    "C:\\Users\\musau\\Desktop\\Engin Demiroğ\\Northwind\\Northwind.Dal\\Northwind.Dal.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\musau\\Desktop\\Engin Demiroğ\\Northwind\\Northwind.Dal\\Northwind.Dal.csproj",
+        "projectName": "Northwind.Dal",
+        "projectPath": "C:\\Users\\musau\\Desktop\\Engin Demiroğ\\Northwind\\Northwind.Dal\\Northwind.Dal.csproj",
+        "frameworks": {
+          "net45": {
+            "projectReferences": {
+              "C:\\Users\\musau\\Desktop\\Engin Demiroğ\\Northwind\\Northwind.Entities\\Northwind.Entities.csproj": {
+                "projectPath": "C:\\Users\\musau\\Desktop\\Engin Demiroğ\\Northwind\\Northwind.Entities\\Northwind.Entities.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net45": {}
+      }
+    },
+    "C:\\Users\\musau\\Desktop\\Engin Demiroğ\\Northwind\\Northwind.Entities\\Northwind.Entities.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\musau\\Desktop\\Engin Demiroğ\\Northwind\\Northwind.Entities\\Northwind.Entities.csproj",
+        "projectName": "Northwind.Entities",
+        "projectPath": "C:\\Users\\musau\\Desktop\\Engin Demiroğ\\Northwind\\Northwind.Entities\\Northwind.Entities.csproj",
+        "frameworks": {
+          "net45": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net45": {}
+      }
+    },
+    "C:\\Users\\musau\\Desktop\\Engin Demiroğ\\Northwind\\Northwind.Interfaces\\Northwind.Interfaces.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\musau\\Desktop\\Engin Demiroğ\\Northwind\\Northwind.Interfaces\\Northwind.Interfaces.csproj",
+        "projectName": "Northwind.Interfaces",
+        "projectPath": "C:\\Users\\musau\\Desktop\\Engin Demiroğ\\Northwind\\Northwind.Interfaces\\Northwind.Interfaces.csproj",
+        "frameworks": {
+          "net45": {
+            "projectReferences": {
+              "C:\\Users\\musau\\Desktop\\Engin Demiroğ\\Northwind\\Northwind.Entities\\Northwind.Entities.csproj": {
+                "projectPath": "C:\\Users\\musau\\Desktop\\Engin Demiroğ\\Northwind\\Northwind.Entities\\Northwind.Entities.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net45": {}
+      }
+    },
+    "C:\\Users\\musau\\Desktop\\Engin Demiroğ\\Northwind\\Northwind.MvcWebUI\\Northwind.MvcWebUI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\musau\\Desktop\\Engin Demiroğ\\Northwind\\Northwind.MvcWebUI\\Northwind.MvcWebUI.csproj",
+        "projectName": "Northwind.MvcWebUI",
+        "projectPath": "C:\\Users\\musau\\Desktop\\Engin Demiroğ\\Northwind\\Northwind.MvcWebUI\\Northwind.MvcWebUI.csproj",
+        "packagesPath": "C:\\Users\\musau\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\musau\\Desktop\\Engin Demiroğ\\Northwind\\Northwind.MvcWebUI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\DevExpress 21.1\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\musau\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 21.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\musau\\Desktop\\Engin Demiroğ\\Northwind\\Northwind.Bll\\Northwind.Bll.csproj": {
+                "projectPath": "C:\\Users\\musau\\Desktop\\Engin Demiroğ\\Northwind\\Northwind.Bll\\Northwind.Bll.csproj"
+              },
+              "C:\\Users\\musau\\Desktop\\Engin Demiroğ\\Northwind\\Northwind.Dal\\Northwind.Dal.csproj": {
+                "projectPath": "C:\\Users\\musau\\Desktop\\Engin Demiroğ\\Northwind\\Northwind.Dal\\Northwind.Dal.csproj"
+              },
+              "C:\\Users\\musau\\Desktop\\Engin Demiroğ\\Northwind\\Northwind.Entities\\Northwind.Entities.csproj": {
+                "projectPath": "C:\\Users\\musau\\Desktop\\Engin Demiroğ\\Northwind\\Northwind.Entities\\Northwind.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

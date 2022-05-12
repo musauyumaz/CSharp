@@ -1,0 +1,15 @@
+C:\Users\musau\Desktop\Engin Demiroğ\KampIntro\Koleksiyonlar\Koleksiyonlar\bin\Debug\net6.0\Koleksiyonlar.exe
+C:\Users\musau\Desktop\Engin Demiroğ\KampIntro\Koleksiyonlar\Koleksiyonlar\bin\Debug\net6.0\Koleksiyonlar.deps.json
+C:\Users\musau\Desktop\Engin Demiroğ\KampIntro\Koleksiyonlar\Koleksiyonlar\bin\Debug\net6.0\Koleksiyonlar.runtimeconfig.json
+C:\Users\musau\Desktop\Engin Demiroğ\KampIntro\Koleksiyonlar\Koleksiyonlar\bin\Debug\net6.0\Koleksiyonlar.dll
+C:\Users\musau\Desktop\Engin Demiroğ\KampIntro\Koleksiyonlar\Koleksiyonlar\bin\Debug\net6.0\ref\Koleksiyonlar.dll
+C:\Users\musau\Desktop\Engin Demiroğ\KampIntro\Koleksiyonlar\Koleksiyonlar\bin\Debug\net6.0\Koleksiyonlar.pdb
+C:\Users\musau\Desktop\Engin Demiroğ\KampIntro\Koleksiyonlar\Koleksiyonlar\obj\Debug\net6.0\Koleksiyonlar.csproj.AssemblyReference.cache
+C:\Users\musau\Desktop\Engin Demiroğ\KampIntro\Koleksiyonlar\Koleksiyonlar\obj\Debug\net6.0\Koleksiyonlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musau\Desktop\Engin Demiroğ\KampIntro\Koleksiyonlar\Koleksiyonlar\obj\Debug\net6.0\Koleksiyonlar.AssemblyInfoInputs.cache
+C:\Users\musau\Desktop\Engin Demiroğ\KampIntro\Koleksiyonlar\Koleksiyonlar\obj\Debug\net6.0\Koleksiyonlar.AssemblyInfo.cs
+C:\Users\musau\Desktop\Engin Demiroğ\KampIntro\Koleksiyonlar\Koleksiyonlar\obj\Debug\net6.0\Koleksiyonlar.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Engin Demiroğ\KampIntro\Koleksiyonlar\Koleksiyonlar\obj\Debug\net6.0\Koleksiyonlar.dll
+C:\Users\musau\Desktop\Engin Demiroğ\KampIntro\Koleksiyonlar\Koleksiyonlar\obj\Debug\net6.0\ref\Koleksiyonlar.dll
+C:\Users\musau\Desktop\Engin Demiroğ\KampIntro\Koleksiyonlar\Koleksiyonlar\obj\Debug\net6.0\Koleksiyonlar.pdb
+C:\Users\musau\Desktop\Engin Demiroğ\KampIntro\Koleksiyonlar\Koleksiyonlar\obj\Debug\net6.0\Koleksiyonlar.genruntimeconfig.cache

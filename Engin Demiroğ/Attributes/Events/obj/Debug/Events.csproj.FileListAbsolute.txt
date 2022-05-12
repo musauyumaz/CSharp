@@ -1,0 +1,6 @@
+C:\Users\musau\Desktop\Engin Demiroğ\Attributes\Events\bin\Debug\Events.exe.config
+C:\Users\musau\Desktop\Engin Demiroğ\Attributes\Events\bin\Debug\Events.exe
+C:\Users\musau\Desktop\Engin Demiroğ\Attributes\Events\bin\Debug\Events.pdb
+C:\Users\musau\Desktop\Engin Demiroğ\Attributes\Events\obj\Debug\Events.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Engin Demiroğ\Attributes\Events\obj\Debug\Events.exe
+C:\Users\musau\Desktop\Engin Demiroğ\Attributes\Events\obj\Debug\Events.pdb

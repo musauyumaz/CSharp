@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "NXKXOUF7a2p7SeycV272LoX5D3ZyLzuiFoy8/Uod1YznsfsbV5Zhu5+W8X/R5klZ1JAPd2kdrps9Kj2LYxLmHw==",
+  "success": true,
+  "projectFilePath": "D:\\MyFinalProject\\ReCapProject\\Console\\Console.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\musau\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\musau\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

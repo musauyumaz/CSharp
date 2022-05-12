@@ -1,0 +1,6 @@
+https://fontawesome.com/
+https://www.w3schools.com/
+https://codepen.io/
+https://css-tricks.com/
+
+html bir işaretleme dilidir 

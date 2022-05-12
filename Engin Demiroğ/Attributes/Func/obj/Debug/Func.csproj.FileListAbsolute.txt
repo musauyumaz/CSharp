@@ -1,0 +1,7 @@
+C:\Users\musau\Desktop\Engin Demiroğ\Attributes\Func\bin\Debug\Func.exe.config
+C:\Users\musau\Desktop\Engin Demiroğ\Attributes\Func\bin\Debug\Func.exe
+C:\Users\musau\Desktop\Engin Demiroğ\Attributes\Func\bin\Debug\Func.pdb
+C:\Users\musau\Desktop\Engin Demiroğ\Attributes\Func\obj\Debug\Func.csproj.AssemblyReference.cache
+C:\Users\musau\Desktop\Engin Demiroğ\Attributes\Func\obj\Debug\Func.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Engin Demiroğ\Attributes\Func\obj\Debug\Func.exe
+C:\Users\musau\Desktop\Engin Demiroğ\Attributes\Func\obj\Debug\Func.pdb
