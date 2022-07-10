@@ -5,8 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Concrete\" />
-    <Folder Include="Abstract\" />
+    <Folder Include="ValidationRules\" />
   </ItemGroup>
 
   <ItemGroup>

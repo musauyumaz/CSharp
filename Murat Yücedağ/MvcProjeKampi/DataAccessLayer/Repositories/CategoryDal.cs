@@ -20,6 +20,11 @@ namespace DataAccessLayer.Repositories
             throw new NotImplementedException();
         }
 
+        public Category Get(Expression<Func<Category, bool>> filter)
+        {
+            throw new NotImplementedException();
+        }
+
         public List<Category> GetAll()
         {
             return _object.ToList();
